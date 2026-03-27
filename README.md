@@ -14,7 +14,7 @@ Through this project, the following core competencies were developed and applied
 
 * Programming: Python
 * Data Engineering: Data Organizing, Data Cleaning, ETL processes
-* Database Management: MySQL (Schema design, complex querying)
+* Database Management: SQL Lite (Schema design, complex querying)
 * Web Framework: Streamlit (UI development)
 * Analytics: Pandas, Statistics, Descriptive Analytics
 
@@ -22,7 +22,7 @@ Through this project, the following core competencies were developed and applied
 Ensure you have the following installed on your local machine:
 
 * Python 3.8 or higher
-* MySQL Server
+* SQL Lite
 * Git
 
 2. Installation & Setup
@@ -36,14 +36,12 @@ Ensure you have the following installed on your local machine:
    
    pip install pandas sqlalchemy mysql-connector-python streamlit
    
-   3. Database Configuration:
-   * Set up your MySQL database and import necessary datasets.
-      * Update your connection credentials in the app.py or configuration file.
+   
    
 3. Run the Dashboard
 Launch the interactive Streamlit interface:
 
-streamlit run app.py
+streamlit run Index.py
 
 📊 Feature Highlights
 
@@ -56,7 +54,7 @@ streamlit run app.py
 
 * data/: Contains raw and cleaned datasets used for analysis.
 * database/: SQL scripts for database schema and initial data load.
-* app.py: The main entry point for the Streamlit application.
+* Index.py: The main entry point for the Streamlit application.
 * notebooks/: Jupyter notebooks detailing the exploratory data analysis (EDA).
 
 ------------------------------
