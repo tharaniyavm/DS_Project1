@@ -1,5 +1,4 @@
-Here is the comprehensive content for your README.md file, incorporating all the project details from your image and standard documentation best practices.
-------------------------------
+
 🍴 Uber Eats Bangalore: Restaurant Intelligence & Decision Support Systems
 Data Science | SQL | Python | Streamlit
 A specialized analytical platform built to provide intelligence and decision support for the restaurant ecosystem in Bangalore. This project transforms raw data into actionable insights using a robust data engineering and statistical pipeline.
