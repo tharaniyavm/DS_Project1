@@ -6,7 +6,7 @@ A specialized analytical platform built to provide intelligence and decision sup
 📌 Project Overview
 
 * Project Title: Uber Eats Bangalore Restaurant Intelligence & Decision Support Systems
-* Domain: SQL / Data Engineering / Python / Data Scientist / Data Analyst
+* Domain: Food Delivery and Online shooping sector
 * Objective: To empower restaurant owners and market analysts with data-driven tools for market positioning, pricing strategies, and customer preference analysis in Bangalore.
 
 🛠️ Skills & Technologies Acquired
